@@ -1,0 +1,7 @@
+<?php
+
+return [
+    'scrm_api' => "http://api.zhyf.ufs.nobye.me/",
+    'error_no_array' => $error_no_array,
+    'php_dir' => '/home/pubsrv/php-5.5.18/bin/php',
+];
